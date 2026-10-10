@@ -1,0 +1,22 @@
+## .NET Core / C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+
+## Visual Studio & Rider
+.vs/
+.idea/
+
+## Certificates & Secrets
+*.pfx
+*.pem
+*.crt
+*.key
+appsettings.Production.json
+appsettings.Local.json
+
+## OS
+.DS_Store
+Thumbs.db
